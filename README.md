@@ -14,14 +14,6 @@ pnpm dev
 bun dev
 ```
 
-## ingresos
-
-https://laensenadapolo.com/wp-login.php?itsec-hb-token=ingresar
-
-usuario: ensenadapolo
-contraseña: LAensenada.2022
-
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
